@@ -1,0 +1,19 @@
+.bg {
+  position: absolute;
+  background-image: url("../../assets/Netflix.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+.btn-wrapper {
+  margin-top: 20px;
+  text-align: end;
+  margin-right: 20px;
+}
+
+.btn-wrapper .btn {
+  margin-right: 8px;
+}
